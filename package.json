@@ -1,0 +1,12 @@
+{
+  "name": "museum-macan-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Abdullah Ammar <abd.ammar.mar@gmail.com> (https://abdmmar.tech/)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.10",
+    "node-fetch": "3.2.0"
+  }
+}

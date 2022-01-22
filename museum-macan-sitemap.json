@@ -1,0 +1,1669 @@
+{
+	"urlset": {
+		"url": [
+			{
+				"loc": "https://www.museummacan.org/",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "1.00"
+			},
+			{
+				"loc": "https://www.museummacan.org/visit",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/museum-visitation/kembalikemacan",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/the-lost-jungle",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/events",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/education",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/join",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/about",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/present-continuous",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/multiverses-and-dreams",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/others/online-storytelling-session-02",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/MuseumFromHome/museum-from-home",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/workshop/macan-home-kit-citra-sasmita",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/careers",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/privacy-policy",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/ticketing-policy",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.80"
+			},
+			{
+				"loc": "https://www.museummacan.org/visit?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/visit?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/museum-visitation/kembalikemacan?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/museum-visitation/kembalikemacan?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/the-lost-jungle?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/the-lost-jungle?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/thelostjungle/",
+				"lastmod": "2021-12-03T11:33:06+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/events?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/events?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/present-continuous-memori-dan-cerita-tak-terungkap",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/artist-on-artist-citra-on-igak-murniasih",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-the-promise",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/event-1621924402",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/DUC-session-05",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/macan-society-only/artist-talk-and-studio-visit-saleh-husein",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/education?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/education?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542617433",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/ad-pirous-self-portrait",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609622",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612183",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609141",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616935",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611255",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611739",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/caiguoqiang-ascending",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-araber-zu-pferd",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616113",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542615795",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616256",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611878",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608896",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-javanese-mail-station",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609893",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/ini-boss-here-is-is-boss",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609074",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608960",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610110",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612287",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610202",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/my-monologue-i",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609655",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609839",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608423",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609219",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609293",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/miguel-covarrubias-makeup-preparation",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610833",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542614202",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610467",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608204",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609326",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/linggayoni",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609737",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610703",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/miguel-covarrubias-balinese-mother",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542607983",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/join?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/join?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/about?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/about?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/present-continuous?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/present-continuous?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/multiverses-and-dreams?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/multiverses-and-dreams?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/multiverses-and-dreams/",
+				"lastmod": "2021-12-21T04:03:38+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/others/online-storytelling-session-02?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/others/online-storytelling-session-02?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/others/online-storytelling-session-02?id=209",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/MuseumFromHome/museum-from-home?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/MuseumFromHome/museum-from-home?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Julian-Rosefeldt-Manifesto",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/dunia-dalam-berita",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/yayoi-kusama-life-is-the-heart-of-a-rainbow",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/art-turns-world-turns",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/color-in-cave",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/main-getah-rubberscape",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/kotak-utak-atik",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/floating-garden",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/workshop/macan-home-kit-citra-sasmita?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/workshop/macan-home-kit-citra-sasmita?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/careers?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/careers?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/privacy-policy?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/privacy-policy?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/ticketing-policy?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/ticketing-policy?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.64"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/present-continuous-memori-dan-cerita-tak-terungkap?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/present-continuous-memori-dan-cerita-tak-terungkap?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/artist-on-artist-citra-on-igak-murniasih?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/artist-on-artist-citra-on-igak-murniasih?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-the-promise?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-the-promise?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/event-1621924402?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/event-1621924402?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/DUC-session-05?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/DUC-session-05?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/macan-society-only/artist-talk-and-studio-visit-saleh-husein?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/macan-society-only/artist-talk-and-studio-visit-saleh-husein?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611086",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609510",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608652",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610286",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616808",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609149",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611097",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/rudi-mantofani-dunia-jatuh-ke-bumi",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609463",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612453",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/Negotiation",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-indische-landschaap",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/robert-rauschenberg-rush20",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542617433?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542617433?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/ad-pirous-self-portrait?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/ad-pirous-self-portrait?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609622?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609622?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612183?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612183?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609141?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609141?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616935?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616935?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611255?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611255?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611739?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611739?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/caiguoqiang-ascending?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/caiguoqiang-ascending?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-araber-zu-pferd?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-araber-zu-pferd?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616113?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616113?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542615795?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542615795?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616256?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616256?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611878?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611878?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608896?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608896?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-javanese-mail-station?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-javanese-mail-station?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609893?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609893?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/ini-boss-here-is-is-boss?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/ini-boss-here-is-is-boss?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609074?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609074?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608960?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608960?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610110?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610110?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612287?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612287?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610202?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610202?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/my-monologue-i?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/my-monologue-i?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609655?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609655?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609839?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609839?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608423?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608423?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609219?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609219?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609293?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609293?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/miguel-covarrubias-makeup-preparation?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/miguel-covarrubias-makeup-preparation?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610833?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610833?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542614202?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542614202?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610467?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610467?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608204?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608204?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609326?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609326?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/linggayoni?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/linggayoni?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609737?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609737?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610703?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610703?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/miguel-covarrubias-balinese-mother?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/miguel-covarrubias-balinese-mother?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542607983?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542607983?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/others/online-storytelling-session-02?id=209&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/others/online-storytelling-session-02?id=209&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-eins-und-eins",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/i-love-you",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-ale-lino",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-transaction-of-hollows",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-behind-the-light",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-exergie-butter-dance",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=220",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=218",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=201",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=217",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=202",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=215",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/sumarah-dan-menemukan-kedamaian",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=203",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=200",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Julian-Rosefeldt-Manifesto?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Julian-Rosefeldt-Manifesto?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/keynote-lecture-julian-rosefledt-manifesto",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Julian-Rosefeldt-Manifesto?id=145",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/screening-dragonfly-eyes",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method?id=126",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/xubing-open-lecture",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method?id=124",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/dunia-dalam-berita?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/dunia-dalam-berita?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/yayoi-kusama-life-is-the-heart-of-a-rainbow?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/yayoi-kusama-life-is-the-heart-of-a-rainbow?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/art-turns-world-turns?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/art-turns-world-turns?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/color-in-cave?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/color-in-cave?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/main-getah-rubberscape?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/main-getah-rubberscape?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/kotak-utak-atik?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/kotak-utak-atik?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/floating-garden?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/floating-garden?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/floating-garden?id=44",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.51"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611086?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611086?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609510?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609510?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608652?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542608652?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610286?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542610286?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616808?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542616808?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609149?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609149?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611097?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542611097?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/rudi-mantofani-dunia-jatuh-ke-bumi?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/rudi-mantofani-dunia-jatuh-ke-bumi?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609463?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542609463?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612453?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/collection-1542612453?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/Negotiation?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/Negotiation?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-indische-landschaap?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/raden-saleh-indische-landschaap?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/robert-rauschenberg-rush20?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/collections/robert-rauschenberg-rush20?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-eins-und-eins?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-eins-und-eins?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/i-love-you?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/i-love-you?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-ale-lino?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-ale-lino?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-transaction-of-hollows?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-transaction-of-hollows?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-behind-the-light?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-behind-the-light?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-exergie-butter-dance?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/performance/melati-suryodarmo-exergie-butter-dance?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=220&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=220&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=218&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=218&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=201&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=201&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=217&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=217&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=202&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=202&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=215&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=215&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/sumarah-dan-menemukan-kedamaian?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/sumarah-dan-menemukan-kedamaian?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=203&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=203&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=200&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Melati-Suryodarmo-Why-Let-The-Chicken-Run?id=200&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/keynote-lecture-julian-rosefledt-manifesto?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/keynote-lecture-julian-rosefledt-manifesto?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Julian-Rosefeldt-Manifesto?id=145&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/Julian-Rosefeldt-Manifesto?id=145&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/screening-dragonfly-eyes?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/screening-dragonfly-eyes?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method?id=126&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method?id=126&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/xubing-open-lecture?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/talk/xubing-open-lecture?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method?id=124&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/exhibition/xubing-thought-and-method?id=124&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/floating-garden?id=44&lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/cas/floating-garden?id=44&lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.41"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/whats-on-june-august-2021",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.33"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/whats-on-june-august-2021?lang=id",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.26"
+			},
+			{
+				"loc": "https://www.museummacan.org/event-exhibition/whats-on-june-august-2021?lang=en",
+				"lastmod": "2022-01-21T19:32:55+00:00",
+				"priority": "0.26"
+			}
+		],
+		"_xmlns": "http://www.sitemaps.org/schemas/sitemap/0.9",
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_xsi:schemaLocation": "http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+	}
+}
